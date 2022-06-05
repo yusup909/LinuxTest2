@@ -1,4 +1,4 @@
-global.owner = ['6285748894171'] // Put your number here
+global.owner = ['6283897390164','6285391576039'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -43,8 +43,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'stickerby'
-global.author = `NakataArdnt`
-global.wm = 'NahBotz-' //Nama Bot
+global.author = `YusupKakuu`
+global.wm = 'LinuxBotV1' //Nama Bot
 global.watermark = wm
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.instagram = 'https://instagram.com/nakataa1.a'
