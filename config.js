@@ -46,8 +46,8 @@ global.packname = 'stickerby'
 global.author = `YusupKakuu`
 global.wm = 'LinuxBotV1' //Nama Bot
 global.watermark = wm
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
-global.instagram = 'https://instagram.com/nakataa1.a'
+global.media = 'https://youtube.co/YUSUP909'
+global.instagram = 'https://saweria.co/YUSUP909'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
